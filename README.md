@@ -19,7 +19,7 @@ A global sum is used to keep track of black's evaluation score after each move, 
 
 ## How to Play?
 
-1. Head over to
+1. Head over to https://rajveer-cse-27.github.io/Chaturanga-AI-Chess/
 
 2. Play as white by dragging a piece to your desired location. The AI plays as black. The AI's minimax search depth (which is directly related to how well it will play) can be customised using the 'Search Depth (Black)' dropdown. Using a higher value will improve the AI's accuracy, but it will take longer to decide on the next move.
 
