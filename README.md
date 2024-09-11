@@ -45,6 +45,3 @@ Special thanks to these projects that help me a lot in this.
 2. [Chessboard.js](https://chessboardjs.com)
 3. [Free Code Camp](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/)
 
-## License
-
-Use of this project is governed by the [MIT License](LICENSE).
