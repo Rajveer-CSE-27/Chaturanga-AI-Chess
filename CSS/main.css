@@ -1,0 +1,41 @@
+
+.text-align-center {
+    text-align: center;
+}
+
+.section {
+    background-color: rgb(182, 137, 96); 
+    padding: 10px; 
+    border-radius: 10px;
+    padding-top: 3px;
+}
+
+#myBoard {
+    max-width: 100%;
+    height: auto;
+    overflow: scroll;
+}
+
+.highlight-white {
+    box-shadow: inset 0 0 3px 3px yellow;
+    
+}
+
+.highlight-black {
+    box-shadow: inset 0 0 3px 3px cyan;
+}
+
+.highlight-hint {
+    box-shadow: inset 0 0 5px 5px rgb(0, 0, 0);;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+
+.no-underline {
+    text-decoration: none;
+}
+
+.no-outline:focus {
+    outline: none;
+    box-shadow: none;
+}
